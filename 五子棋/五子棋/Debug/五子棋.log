@@ -1,0 +1,28 @@
+﻿  AI.cpp
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\AI.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\AI.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\AI.cpp(273,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chess.cpp
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(76,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(76,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(77,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(77,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(95,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(96,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(99,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(100,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(103,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(112,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(126,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(128,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(142,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(143,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(158,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(180,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Chess.cpp(181,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ChessGame.cpp
+  Human.cpp
+  Source.cpp
+D:\Programming\studyUse\moduelLearning\五子棋\五子棋\五子棋\Source.cpp(15,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  五子棋.vcxproj -> D:\Programming\studyUse\moduelLearning\五子棋\五子棋\Debug\五子棋.exe
